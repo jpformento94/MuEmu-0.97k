@@ -24,7 +24,7 @@
 	"/vit"					1	1	1	1			0	0	0	0				*	*	*	*			*	*	*	*			*	*	*	*			*	*	*	*		0	0		//vit <Amount>
 	"/ene"					1	1	1	1			0	0	0	0				*	*	*	*			*	*	*	*			*	*	*	*			*	*	*	*		0	0		//ene <Amount>
 	"/reset"				1	1	1	1			0	0	0	0				*	*	*	*			*	*	*	*			*	*	*	*			*	*	*	*		0	0		//reset <Auto> <Str> <Agi> <Vit> <Ene>
-	"/grandreset"				1	1	1	1			0	0	0	0				*	*	*	*			*	*	*	*			*	*	*	*			*	*	*	*		0	0		//grandreset
+	"/grandreset"			1	1	1	1			0	0	0	0				*	*	*	*			*	*	*	*			*	*	*	*			*	*	*	*		0	0		//grandreset
 	"/pkclear"				1	1	1	1			0	0	0	0				*	*	*	*			*	*	*	*			*	*	*	*			*	*	*	*		0	0		//pkclear
 	"/addmoney"				1	1	1	1			0	0	0	0				*	*	*	*			*	*	*	*			*	*	*	*			*	*	*	*		0	0		//addmoney <Amount>
 	"/submoney"				1	1	1	1			0	0	0	0				*	*	*	*			*	*	*	*			*	*	*	*			*	*	*	*		0	0		//submoney <Amount>
@@ -39,8 +39,8 @@
 	"/gmoveall"				1	1	1	1			0	0	0	0				*	*	*	*			*	*	*	*			*	*	*	*			*	*	*	*		0	0		//gmoveall <MapNumber> <X> <Y>
 	"/chase"				1	1	1	1			0	0	0	0				*	*	*	*			*	*	*	*			*	*	*	*			*	*	*	*		0	0		//gchase <PlayerName>
 	"/bring"				1	1	1	1			0	0	0	0				*	*	*	*			*	*	*	*			*	*	*	*			*	*	*	*		0	0		//gbring <PlayerName>
-	"/disconnect"				1	1	1	1			0	0	0	0				*	*	*	*			*	*	*	*			*	*	*	*			*	*	*	*		0	0		//disconnect <PlayerName>
-	"/fireworks"				1	1	1	1			0	0	0	0				*	*	*	*			*	*	*	*			*	*	*	*			*	*	*	*		0	0		//fireworks
+	"/disconnect"			1	1	1	1			0	0	0	0				*	*	*	*			*	*	*	*			*	*	*	*			*	*	*	*		0	0		//disconnect <PlayerName>
+	"/fireworks"			1	1	1	1			0	0	0	0				*	*	*	*			*	*	*	*			*	*	*	*			*	*	*	*		0	0		//fireworks
 	"/drop"					1	1	1	1			0	0	0	0				*	*	*	*			*	*	*	*			*	*	*	*			*	*	*	*		0	0		//drop <Group> <Index> <Level> <Skill> <Luck> <Option> <Excel>
 	"/make"					1	1	1	1			0	0	0	0				*	*	*	*			*	*	*	*			*	*	*	*			*	*	*	*		0	0		//make (-quant) <Group> <Index> <Level> <Skill> <Luck> <Option> <Excel>
 	"/makeset"				1	1	1	1			0	0	0	0				*	*	*	*			*	*	*	*			*	*	*	*			*	*	*	*		0	0		//makeset <Index> <Level> <Skill> <Luck> <Option> <Excel>
