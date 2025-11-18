@@ -8,26 +8,22 @@
 14,002	0	255	0	0	0	0	*	*	// Medium Healing Potion
 14,003	0	255	0	0	0	0	*	*	// Large Healing Potion
 
-14,001	0	100	0	0	0	0	*	*	// Small Healing Potion
-14,002	0	100	0	0	0	0	*	*	// Medium Healing Potion
-14,003	0	100	0	0	0	0	*	*	// Large Healing Potion
-
-14,001	0	50	0	0	0	0	*	*	// Small Healing Potion
-14,002	0	50	0	0	0	0	*	*	// Medium Healing Potion
-14,003	0	50	0	0	0	0	*	*	// Large Healing Potion
-
 14,004	0	255	0	0	0	0	*	*	// Small Mana Potion
 14,005	0	255	0	0	0	0	*	*	// Medium Mana Potion
 14,006	0	255	0	0	0	0	*	*	// Large Mana Potion
 
-14,004	0	100	0	0	0	0	*	*	// Small Mana Potion
-14,005	0	100	0	0	0	0	*	*	// Medium Mana Potion
-14,006	0	100	0	0	0	0	*	*	// Large Mana Potion
-
-14,004	0	50	0	0	0	0	*	*	// Small Mana Potion
-14,005	0	50	0	0	0	0	*	*	// Medium Mana Potion
-14,006	0	50	0	0	0	0	*	*	// Large Mana Potion
-
 14,008	0	255	0	0	0	0	*	*	// Antidote
+
+13,018	1	0	0	0	0	0	*	*	// Cloak of Invisibility
+13,018	2	0	0	0	0	0	*	*	// Cloak of Invisibility
+13,018	3	0	0	0	0	0	*	*	// Cloak of Invisibility
+13,018	4	0	0	0	0	0	*	*	// Cloak of Invisibility
+13,018	5	0	0	0	0	0	*	*	// Cloak of Invisibility
+13,018	6	0	0	0	0	0	*	*	// Cloak of Invisibility
+
+14,019	1	1	0	0	0	0	*	*	// Devil's Invitation
+14,019	2	1	0	0	0	0	*	*	// Devil's Invitation
+14,019	3	1	0	0	0	0	*	*	// Devil's Invitation
+14,019	4	1	0	0	0	0	*	*	// Devil's Invitation
 
 end
